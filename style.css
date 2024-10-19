@@ -1,0 +1,30 @@
+ul{
+    display: flex;
+    gap: 20px;
+    justify-content: center;
+    list-style: none;
+    background-color: black;
+    padding: 8px;
+}
+li{
+    cursor: pointer;
+    font-size: 20px;
+    color: aliceblue;
+
+}
+img{
+    border-radius: 30px;
+    width: 50%;
+    height: 50%;
+    position: relative;
+    float: left;
+
+}
+p{
+    text-align: center;
+    position: relative;
+    margin-left: 20px;
+    font-size: 20px;
+    color: black;
+    top: 60px;
+}
